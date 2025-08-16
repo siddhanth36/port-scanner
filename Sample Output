@@ -1,0 +1,9 @@
+Enter target IP/hostname: 8.8.8.8
+🔍 Scanning 8.8.8.8 (ports 1-100)...
+
+📊 Scan results for 8.8.8.8:
+Status: up
+
+Protocol: tcp
+✅ Port 53 (domain) is open
+                             
